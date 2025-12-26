@@ -1,5 +1,9 @@
 # 🥋 Numba Dojo
 
+<p align="center">
+  <img src="media/logo.png" alt="Numba Dojo Logo" width="600">
+</p>
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776ab?logo=python&logoColor=white)](https://python.org)
 [![Rust](https://img.shields.io/badge/Rust-1.70+-dea584?logo=rust&logoColor=white)](https://rust-lang.org)
 [![CUDA](https://img.shields.io/badge/CUDA-12.0+-76b900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
